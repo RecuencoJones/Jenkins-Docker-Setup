@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/RecuencoJones/Jenkins-Docker-Setup.svg?branch=develop)](https://travis-ci.org/RecuencoJones/Jenkins-Docker-Setup)
+
 # Jenkins Docker Setup
 
 Take a look at [Jenkins Docker](https://hub.docker.com/_/jenkins/) for  the basic usage of this container.
