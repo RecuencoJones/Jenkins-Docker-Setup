@@ -57,6 +57,7 @@ pipeline-stage-view:2.8
 plain-credentials:1.4
 resource-disposer:0.6
 scm-api:2.2.0
+scm-sync-configuration:0.0.10
 script-security:1.33
 sonar:2.6.1
 ssh-credentials:1.13
